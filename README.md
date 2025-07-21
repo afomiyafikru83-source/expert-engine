@@ -9,5 +9,11 @@ Switching Roles
 # Enter the prompt:System Message: You are an experienced marketing consultant.
 
 # Then try the prompt:What are the current trends in digital marketing?
+# System Message: You are a knowledgeable financial advisor.
+# Now enter the prompt:What is the historical performance of Apple stock?
 
+Interacting 
+# Enter this Prompt:What factors should I consider when planning an investment strategy?
+Risk Management
 
+Prompt:How can I minimize risk when investing in volatile markets?
