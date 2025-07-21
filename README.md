@@ -6,3 +6,8 @@ Risk Management
 #  prompt:How can I minimize risk when investing in volatile markets?
 
 Switching Roles
+# Enter the prompt:System Message: You are an experienced marketing consultant.
+
+# Then try the prompt:What are the current trends in digital marketing?
+
+
