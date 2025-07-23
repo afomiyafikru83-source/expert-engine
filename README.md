@@ -130,3 +130,4 @@ Reviews:
 "Great customer service, but the app is a bit slow."
 Task 1: Setting Up Project GoalsGenerate a list of SMART goals for a project that aims to develop a new mobile application for grocery delivery within six months.
 Task 2: Project Planning Create a project plan outline for developing a new mobile application for grocery delivery. The project timeline is six months and should include stages like ideation, design, development, testing, and launch.
+ask 3:Task DelegationAssign tasks to the project team for the grocery delivery app development project. The team consists of a Project Manager, UX/UI Designer, App Developer, Tester, and Marketing Specialist.
